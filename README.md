@@ -1,6 +1,6 @@
 # Deep Learning for Cellular State Classification from Microscopy Images
 
-A PhD-standard deep learning pipeline for automated subcellular localisation
+A deep learning pipeline for automated subcellular localisation
 classification from fluorescence microscopy images.
 
 ## Project Overview
