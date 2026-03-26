@@ -1,0 +1,21 @@
+# Requirements — Cellular State Classification Project
+# Generated: 2026-03-26 16:59:46
+# Install: pip install -r requirements.txt
+
+torch==2.10.0+cu128
+torchvision==0.25.0+cu128
+torchaudio==2.10.0+cu128
+timm==1.0.25
+albumentations==2.0.8
+grad-cam==1.5.5
+torchinfo==1.8.0
+numpy==2.0.2
+pandas==2.2.2
+matplotlib==3.10.0
+seaborn==0.13.2
+scikit-learn==1.6.1
+scipy==1.16.3
+statsmodels==0.14.6
+opencv-python-headless==4.13.0.92
+Pillow==11.3.0
+tqdm==4.67.3
